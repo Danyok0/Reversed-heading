@@ -1,18 +1,6 @@
 import tkinter
 from tkinter import *
 
-'''
-def get_entry():
-    heading = name.get()
-    if heading:
-        print(heading)
-    else:
-        print('Empty entry')
-'''
-'''
-fg='#bfbfbf'
-bg='#01018a'
-'''
 
 def get_entry():
     heading = int(name.get())
